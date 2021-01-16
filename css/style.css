@@ -1,0 +1,40 @@
+.heading{
+  background-image: url(../images/utility/dot.png);
+  background-repeat: no-repeat;
+  background-size: 150px;
+  background-position-x: center;
+  background-color: #FFFBF0;  
+}
+h1, h2, h3{
+  color: rgb(54, 57, 88);
+}
+.heading h1{
+  font-size: 4rem;
+  font-family: Bebas Neue;
+  color: rgb(54, 57, 88);
+}
+.text-highlight{
+  color: rgb(250, 190, 76);
+}
+.w-card{
+  border-radius: 1em;
+  padding: 1em;
+  border: 0;
+  box-shadow: 5px 8px 25px rgba(0, 0, 0, .1);
+}
+.w-footer{
+  border: 0;
+  background-color: white;
+}
+.w-product{
+  border-radius: 1.2em;
+  background-color: #f1f1f1;
+  border: 0;
+  overflow: hidden;
+}
+.all-btn{
+  border-radius: .7em;
+  border: 0;
+  background: linear-gradient(45deg, rgb(139, 199, 70), rgb(87, 194, 140));
+  color: white;
+}
