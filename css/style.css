@@ -16,7 +16,7 @@ h1, h2, h3{
 .text-highlight{
   color: rgb(250, 190, 76);
 }
-.w-card{
+.w-card, .official{
   border-radius: 1em;
   padding: 1em;
   border: 0;
@@ -37,4 +37,8 @@ h1, h2, h3{
   border: 0;
   background: linear-gradient(45deg, rgb(139, 199, 70), rgb(87, 194, 140));
   color: white;
+}
+.footer{
+  /* height: 200px; */
+  background: linear-gradient(-45deg, rgb(139, 199, 70), rgb(87, 194, 140));
 }
